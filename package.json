@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "install": "cd client && npm i && cd ../server && npm i",
    
     "server": "node server",
     "client": "npm start --prefix client",
