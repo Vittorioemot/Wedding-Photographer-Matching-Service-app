@@ -30,7 +30,8 @@ Challenges
 Deployment to Heroku using and adding appropriate links and libraries
 Successes
  A working app that’s delivers a forum that is useful. 
-
+ ![Image Caption](https://github.com/Vittorioemot
+ 
 Links
 Deployed 
 
@@ -38,3 +39,6 @@ GitHubhttps://wedding-photography-forum.herokuapp.com/
 
 https://github.com/Vittorioemot/Wedding-Photographer-Matching-Service-app
 
+Author
+Vittorio Natoli
+Email: vittorio@emot.com.au
