@@ -20,12 +20,12 @@ Use React for the front end.
 Use Graph QL with a Node.js and Express.js server.
 Use MongoDB and the Mongoose ODM for the database.
 Use queries and mutations for retrieving, adding, updating, and deleting data.
-Be deployed using Heroku (with data).
-Have a polished UI.
+Deployed using Heroku (with data).
+Polished UI.
 Responsive.
-Be interactive (i.e., accept and respond to user input).
-Include authentication (JWT).
-Protect sensitive API key information on the server.
+Interactive (i.e., accept and respond to user input).
+Includes authentication (JWT).
+Protects sensitive API key information on the server.
 Challenges
 Deployment to Heroku using and adding appropriate links and libraries
 Successes
